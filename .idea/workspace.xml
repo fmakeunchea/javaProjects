@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4b8bf37-1108-4402-a057-8b4f0b518131" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fTGFO6h0IuzhJyi3qIg2COGFda" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.NameDialog">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.AccountTest" />
+      <module name="javaProjet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BarChart" />
+      <module name="javaProjet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dialog1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Dialog1" />
+      <module name="javaProjet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.NameDialog" />
+      <module name="javaProjet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter7.OddArray" />
+      <module name="javaProjet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OddArray" />
+      <item itemvalue="Application.BarChart" />
+      <item itemvalue="Application.AccountTest" />
+      <item itemvalue="Application.Dialog1" />
+      <item itemvalue="Application.NameDialog" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NameDialog" />
+        <item itemvalue="Application.Dialog1" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.BarChart" />
+        <item itemvalue="Application.OddArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4b8bf37-1108-4402-a057-8b4f0b518131" name="Default Changelist" comment="" />
+      <created>1596234564713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596234564713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1596368894950">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="842" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1440.794@0.23.1440.794" timestamp="1596368894950" />
+    <state width="779" height="181" key="GridCell.Tab.0.bottom" timestamp="1596388500045">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="779" height="181" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1596373063260" />
+    <state width="779" height="181" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1596388500045" />
+    <state width="779" height="181" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1596384179816" />
+    <state width="779" height="181" key="GridCell.Tab.0.center" timestamp="1596388500044">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="779" height="181" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1596373063255" />
+    <state width="779" height="181" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1596388500044" />
+    <state width="779" height="181" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1596384179816" />
+    <state width="779" height="181" key="GridCell.Tab.0.left" timestamp="1596388500043">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="779" height="181" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1596373063254" />
+    <state width="779" height="181" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1596388500043" />
+    <state width="779" height="181" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1596384179815" />
+    <state width="779" height="181" key="GridCell.Tab.0.right" timestamp="1596388500044">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="779" height="181" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1596373063257" />
+    <state width="779" height="181" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1596388500044" />
+    <state width="779" height="181" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1596384179816" />
+  </component>
+</project>
