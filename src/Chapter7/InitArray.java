@@ -10,7 +10,7 @@ public class InitArray {
 
         //output each array element's value
 
-        for ( int counter = 0; counter < array.length; counter++)
+        for ( int counter = array.length - 1; counter >=0 ;  counter--)
 
         System.out.printf("%5d%8d%n", counter, array[counter]);
     }
