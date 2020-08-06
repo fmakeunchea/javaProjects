@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b8bf37-1108-4402-a057-8b4f0b518131" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter7/checkVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/AutoPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/AutoPolicyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/LetterGrades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaProjet/Chapter7/InitArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaProjet/Chapter7/InitArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter7/InitArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter7/InitArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Student.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +33,13 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.checkVowel">
-    <configuration name="Dialog1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.Dialog1" />
+  <component name="RunManager" selected="Application.AutoPolicyTest">
+    <configuration name="AutoPolicyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.AutoPolicyTest" />
       <module name="javaProjet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.NameDialog" />
+    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.Interest" />
       <module name="javaProjet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.StudentTest" />
+    <configuration name="LetterGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.LetterGrades" />
       <module name="javaProjet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,19 +100,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Dialog1" />
       <item itemvalue="Application.InitArray" />
-      <item itemvalue="Application.NameDialog" />
-      <item itemvalue="Application.StudentTest" />
       <item itemvalue="Application.checkVowel" />
+      <item itemvalue="Application.Interest" />
+      <item itemvalue="Application.LetterGrades" />
+      <item itemvalue="Application.AutoPolicyTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AutoPolicyTest" />
+        <item itemvalue="Application.LetterGrades" />
+        <item itemvalue="Application.Interest" />
         <item itemvalue="Application.checkVowel" />
         <item itemvalue="Application.InitArray" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.NameDialog" />
-        <item itemvalue="Application.Dialog1" />
       </list>
     </recent_temporary>
   </component>
@@ -134,38 +130,59 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="842" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1596389038521">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state x="842" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1596694469290">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state x="842" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1440.794@0.23.1440.794" timestamp="1596368894950" />
+    <state x="842" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1440.794@0.23.1440.794" timestamp="1596694469290" />
     <state x="842" y="129" key="#com.intellij.ide.util.MemberChooser/0.23.1440.798@0.23.1440.798" timestamp="1596389038521" />
-    <state width="779" height="181" key="GridCell.Tab.0.bottom" timestamp="1596416596237">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="779" height="181" key="GridCell.Tab.0.bottom" timestamp="1596695870244">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="779" height="181" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1596373063260" />
+    <state width="779" height="181" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1596695870244" />
     <state width="779" height="181" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1596390496833" />
     <state width="779" height="181" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1596416596237" />
     <state width="779" height="181" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1596409047997" />
-    <state width="779" height="181" key="GridCell.Tab.0.center" timestamp="1596416596236">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="779" height="181" key="GridCell.Tab.0.center" timestamp="1596695870243">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="779" height="181" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1596373063255" />
+    <state width="779" height="181" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1596695870243" />
     <state width="779" height="181" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1596390496832" />
     <state width="779" height="181" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1596416596236" />
     <state width="779" height="181" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1596409047995" />
-    <state width="779" height="181" key="GridCell.Tab.0.left" timestamp="1596416596236">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="779" height="181" key="GridCell.Tab.0.left" timestamp="1596695870242">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="779" height="181" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1596373063254" />
+    <state width="779" height="181" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1596695870242" />
     <state width="779" height="181" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1596390496832" />
     <state width="779" height="181" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1596416596236" />
     <state width="779" height="181" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1596409047993" />
-    <state width="779" height="181" key="GridCell.Tab.0.right" timestamp="1596416596237">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="779" height="181" key="GridCell.Tab.0.right" timestamp="1596695870243">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
-    <state width="779" height="181" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1596373063257" />
+    <state width="779" height="181" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1596695870243" />
     <state width="779" height="181" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1596390496833" />
     <state width="779" height="181" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1596416596237" />
     <state width="779" height="181" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1596409047996" />
+    <state width="779" height="252" key="GridCell.Tab.1.bottom" timestamp="1596693416789">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="779" height="252" key="GridCell.Tab.1.bottom/0.23.1440.794@0.23.1440.794" timestamp="1596693416789" />
+    <state width="779" height="252" key="GridCell.Tab.1.center" timestamp="1596693416789">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="779" height="252" key="GridCell.Tab.1.center/0.23.1440.794@0.23.1440.794" timestamp="1596693416789" />
+    <state width="779" height="252" key="GridCell.Tab.1.left" timestamp="1596693416788">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="779" height="252" key="GridCell.Tab.1.left/0.23.1440.794@0.23.1440.794" timestamp="1596693416788" />
+    <state width="779" height="252" key="GridCell.Tab.1.right" timestamp="1596693416789">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="779" height="252" key="GridCell.Tab.1.right/0.23.1440.794@0.23.1440.794" timestamp="1596693416789" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaProjet$LetterGrades.ic" NAME="LetterGrades Coverage Results" MODIFIED="1596692499149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>chapter5.*</FILTER>
+    </SUITE>
   </component>
 </project>
